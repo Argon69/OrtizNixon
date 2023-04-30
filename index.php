@@ -12,21 +12,23 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Stalin Francis?</h1>
+        	<h1>¿Quién es Nixon Ortiz?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
-                Posteado por:  Stalin Francis<br>
-                Fecha: 2021-08-17 <br>
+                Posteado por:  Nixon Ortiz<br>
+                Fecha: 2023-04-30 <br>
           </div>
         </div>
     </div>
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Stalin Adalberto <b> Francis Quinde </b>, ingeniero esmeraldeño que labora desde hace 10 años en la Universidad Tecnica Luis Vargas Torres, e impartido diferentes cátedras en la carrera de Tecnología de la Información entre las cuales esta Ingeniería de Software, Programación Web, Proyectos informáticos entre otras; pero la cátedra en la que mejor me desempeño es la de Fundamentos de programación que se dicta en el primer ciclo de la carrera de Tecnología de la Información. </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por las ciencias y la tecnología, quieza sería  por esta capacidad que tiene estas dos áres del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la ESPOL, me he dedicado a la programación de computadoras. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+                   <p class="eys-parrafo">¡Hola! Me complace presentarme, soy Ortiz Quiñonez<b> Nixon Aldair </b>, un estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica Luis Vargas Torres. </p>
+                   <p class="eys-parrafo">Actualmente llevo 4 años estudiando esta carrera y he adquirido conocimientos y habilidades en diversas áreas de la tecnología, incluyendo programación, bases de datos, redes de computadoras, uso de frameworks, desarrollo digital, Asesoria Comercial y mucho más.</p>
+                   <p class="eys-parrafo">Desde que inicié mi carrera universitaria, he estado muy enfocado en mejorar mis habilidades y conocimientos, por lo que he participado en varios proyectos relacionados con la tecnología. Además, también he tenido la oportunidad de realizar prácticas profesionales en empresas del sector, lo que me ha permitido aplicar mis conocimientos teóricos a situaciones reales y aprender de expertos en la industria.</p>
+                   <p class="eys-parrafo">Uno de mis objetivos a largo plazo es convertirme en un profesional exitoso y respetado en el campo de la tecnología. Para lograrlo, estoy constantemente en busca de nuevas oportunidades de aprendizaje y crecimiento profesional, además de mantenerme actualizado sobre las últimas tendencias y avances en la industria.</p>
+                   <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el primer ciclo de universidad fue el <b><a href="https://es.wikipedia.org/wiki/C%2B%2B"> C++</a></b>  aprendi a codificar en pseudocodigo y luego en IDEs especializados</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
@@ -34,23 +36,24 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional Sagado Corazon donde me gradue en el año 1989, de la especialidad de Físico-Matemático, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios en la Escuela Superior Politécnica del Litoral donde seguí la carrera de Ingeniería en Computación, gracias a la demanda que exitía en este tiempo de este tipo de profesionales comencé a trabajar mientra estaba estudiando, prestando mis servicios profesionales en empresas como Poligráfica, El telegráfo, Intecorsorcio; mientras trabajaba en esta última logré obtener mi título de Ingeniero de Computación.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en la  Unidad Educativa del Milenio Simón Plata Torres, donde me gradue en el año 2019, como Bachiller en Ciencias, Durante mis estudios secundarios, tuve la oportunidad de adquirir una sólida formación académica y desarrollar habilidades en diferentes áreas del conocimiento..</p>
+                   <p class="eys-parrafo">En particular, el enfoque en ciencias me permitió comprender mejor el mundo que nos rodea y aprender a analizar y resolver problemas de manera crítica. También tuve la oportunidad de participar en varias actividades extracurriculares, incluyendo clubes de ciencia y tecnología, lo que me permitió explorar mi pasión por la innovación y la creatividad.</p>
+<p class="eys-parrafo"> Además de mis estudios, también participé en actividades deportivas y culturales, lo que me permitió desarrollar habilidades sociales y de liderazgo. Estas habilidades me han sido muy útiles en mi vida cotidiana y en mi carrera universitaria.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
     
 
 
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+                   <p  class="eys-parrafo">En particular, tengo experiencia en HTML, CSS, PHP, Java, C#, Laravel, Node JS, React, MySQL, Supabase y programación orientada a objetos..</p> 
+                   <p  class="eys-parrafo">Además, tengo habilidades en la creación de programas de escritorio, uso de Linux y en el desarrollo de contenido digital. También tengo experiencia en el ámbito de marketing y ventas, lo que me permite entender mejor las necesidades de los clientes y ofrecer soluciones adaptadas a sus requerimientos.</p>
+                   <p  class="eys-parrafo">Como parte de mi experiencia laboral, he trabajado en proyectos de desarrollo de aplicaciones web y móviles, lo que me ha permitido adquirir habilidades en programación no code y en el uso de herramientas de desarrollo de aplicaciones. También he trabajado en proyectos de marketing digital y ventas en línea, lo que me ha permitido entender mejor la dinámica del mercado y ofrecer soluciones efectivas y eficientes.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta leer diferentes generos de libros tanto de filosofia o novelas de cualquier genero. Otros de mis pasatiendos es Desarrollar proyectos de programacion mediante cursos o tutoriales. </p>
        
 
                    
