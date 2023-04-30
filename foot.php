@@ -42,5 +42,21 @@
 </html>
 
 <style>
-   
+   #eys-footer li {
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.5;
+}
+#eys-footer > div > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#eys-footer > div > div > div {
+  width: calc(100% / 3);
+  max-width: 300px;
+  margin-bottom: 30px;
+}
+
 </style>
