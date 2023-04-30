@@ -11,9 +11,9 @@
  <title> Educaysoft </title>
 <meta charset="utf-8"/>
 	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-	<meta name="description" content="Biografía de Stalin Franciso" />
+	<meta name="description" content="Biografía de Nixon Ortiz" />
 
-	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/fotoperfil.png" />
+	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/OrtizNixon.jpeg" />
 	<meta property="og:image:width" content="100" />
 	<meta property="og:image:height" content="100" />
 <!----        <meta name="viewport" content="width=device-width, initial-scale=1" /> --->
