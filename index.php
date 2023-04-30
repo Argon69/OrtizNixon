@@ -83,7 +83,7 @@ include("marco-left.php")
  
 <script >  
 
- document.title="Stalin"; 
+ document.title="Nixon Ortiz"; 
 document.getElementById("foto").src="./images/OrtizNixon.jpeg";
 document.getElementById("elnombre").innerHTML="Nixon Ortiz";
 
