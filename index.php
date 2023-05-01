@@ -26,9 +26,9 @@ include("marco-right.php");
            <div  style="text-align:justify; font-size: 20px;">
                    <p class="eys-parrafo">¡Hola! Me complace presentarme, soy Ortiz Quiñonez<b> Nixon Aldair </b>, un estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica Luis Vargas Torres. </p>
                    <p class="eys-parrafo">Actualmente llevo 4 años estudiando esta carrera y he adquirido conocimientos y habilidades en diversas áreas de la tecnología, incluyendo programación, bases de datos, redes de computadoras, uso de frameworks, desarrollo digital, Asesoria Comercial y mucho más.</p>
-                   <p class="eys-parrafo">Desde que inicié mi carrera universitaria, he estado muy enfocado en mejorar mis habilidades y conocimientos, por lo que he participado en varios proyectos relacionados con la tecnología. Además, también he tenido la oportunidad de realizar prácticas profesionales en empresas del sector, lo que me ha permitido aplicar mis conocimientos teóricos a situaciones reales y aprender de expertos en la industria.</p>
+                   <p class="eys-parrafo">Desde que inicié mi carrera universitaria, he estado muy enfocado en mejorar mis habilidades y conocimientos, por lo que he participado en varios proyectos relacionados con la tecnología.</p>
                    <p class="eys-parrafo">Uno de mis objetivos a largo plazo es convertirme en un profesional exitoso y respetado en el campo de la tecnología. Para lograrlo, estoy constantemente en busca de nuevas oportunidades de aprendizaje y crecimiento profesional, además de mantenerme actualizado sobre las últimas tendencias y avances en la industria.</p>
-                   <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el primer ciclo de universidad fue el <b><a href="https://es.wikipedia.org/wiki/C%2B%2B"> C++</a></b>  aprendi a codificar en pseudocodigo y luego en IDEs especializados</p>
+                   <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el primer ciclo de universidad fue <b><a href="https://es.wikipedia.org/wiki/C%2B%2B"> C++</a></b>  aprendi a codificar en pseudocodigo y luego en IDEs especializados</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
